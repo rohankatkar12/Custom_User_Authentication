@@ -1,4 +1,4 @@
-1. import AbstractUser
+1. import AbstractUser in models.py
 2. create CustomUser Model with own fields
 3. register this model in settings.py file ex:- AUTH_USER_MODEL = ''
 4. create model manager in separate manager.py file
