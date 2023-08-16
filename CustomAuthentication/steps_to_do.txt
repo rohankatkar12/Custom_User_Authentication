@@ -1,0 +1,7 @@
+1. import AbstractUser
+2. create CustomUser Model with own fields
+3. register this model in settings.py file ex:- AUTH_USER_MODEL = ''
+4. create model manager in separate manager.py file
+5. makemigrations
+6. migrate
+7. runserver
