@@ -1,2 +1,2 @@
 # Custom_User_Authentication
-Custom User Authentication using AbstractUser & AbstractBaseUser class
+Custom User Authentication in Django using AbstractUser & AbstractBaseUser class
